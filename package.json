@@ -1,0 +1,13 @@
+{
+  "name": "oop-hospital",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node ./javascript/ex.js",
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC"
+}
